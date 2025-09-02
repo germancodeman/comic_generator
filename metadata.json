@@ -1,0 +1,5 @@
+{
+  "name": "Comic Strip AI Generator",
+  "description": "Create amazing comic strips from your own characters and stories. Upload images of your characters, write a story prompt, and watch as AI generates a unique comic strip for you using the Gemini Nano Banana model.",
+  "requestFramePermissions": []
+}
